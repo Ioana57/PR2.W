@@ -18,9 +18,15 @@
     <dependencies>
         <dependency>
             <groupId>com.example</groupId>
-            <artifactId>pr22</artifactId>
+            <artifactId>MakeItSimple</artifactId>
             <version>1.0.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.example</groupId>
+            <artifactId>MakeItSimpleKlassenbeschreibung</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+
 
     </dependencies>
 
