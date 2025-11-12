@@ -5,7 +5,7 @@ class HashTable {
 
     private String[] hashTable; // HashTable für die Monatsnamen
 
-    HashTable() {  // HashTable hat default Größe
+    HashTable() {  // HashTable hat default Größe, hier 10
         hashTable = new String[10];
     }
 
